@@ -1,6 +1,8 @@
 [![Run unit tests](https://github.com/ian-mcfarlane/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ian-mcfarlane/ci-course/actions/workflows/unit-tests.yml)
 
 [![Run on multiple OS](https://github.com/ian-mcfarlane/ci-course/actions/workflows/os-tests.yml/badge.svg)](https://github.com/ian-mcfarlane/ci-course/actions/workflows/os-tests.yml)
+
+[![codecov](https://codecov.io/gh/ian-mcfarlane/ci-course/branch/main/graph/badge.svg?token=C0V8QU0GMY)](https://codecov.io/gh/ian-mcfarlane/ci-course)
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
